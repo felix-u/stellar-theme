@@ -6,7 +6,7 @@ primary:
   darkgrey:   '0x575658'
   grey:       '0x7A7979'
   lightgrey:  '0x9D9C9A'
-  vlightgrey: '0xBFCOBC'
+  vlightgrey: '0xBFC0BC'
   
 # Normal colors
 normal:
