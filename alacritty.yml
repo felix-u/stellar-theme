@@ -1,12 +1,12 @@
 colors:
   # Default colors
   primary:
-    background: '0x1f1c21'
+    background: '0x1d191f'
     foreground: '0xe9e8e2'
 
   # Normal colors
   normal:
-    black:   '0x332e38'
+    black:   '0x302c35'
     red:     '0xc7525d'
     green:   '0x82ab8d'
     yellow:  '0xe4ad6c'
@@ -17,7 +17,7 @@ colors:
 
   # Bright colors
   bright:
-    black:   '0x48414e'
+    black:   '0x453f4b'
     red:     '0xce7881'
     green:   '0xa0c0a5'
     yellow:  '0xe4bb88'
