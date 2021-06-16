@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=stellar-gtk-dark-compact
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=stellar-gtk-dark-compact
+MetacityTheme=stellar-gtk-dark-compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
