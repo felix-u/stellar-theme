@@ -10,12 +10,12 @@
 
 <!-- meaningful constants -->
 
-<constant name="C_titlebar_focused" value="#1e1e20"/>
-<constant name="C_titlebar_unfocused" value="#1e1e20"/>
-<constant name="C_highlight_focused" value="blend/#1e1e20/#fcfcfc/0.1"/>
-<constant name="C_highlight_unfocused" value="blend/#1e1e20/#fcfcfc/0.1"/>
-<constant name="C_title_focused" value="blend/#1e1e20/#fcfcfc/0.87"/>
-<constant name="C_title_unfocused" value="blend/#1e1e20/#fcfcfc/0.6"/>
+<constant name="C_titlebar_focused" value="#1c2124"/>
+<constant name="C_titlebar_unfocused" value="#1c2124"/>
+<constant name="C_highlight_focused" value="blend/#1c2124/#f8f7f1/0.1"/>
+<constant name="C_highlight_unfocused" value="blend/#1c2124/#f8f7f1/0.1"/>
+<constant name="C_title_focused" value="blend/#1c2124/#f8f7f1/0.87"/>
+<constant name="C_title_unfocused" value="blend/#1c2124/#f8f7f1/0.6"/>
 
 <!-- geometries -->
 
