@@ -12,24 +12,24 @@
 *.color9:       #ce7881
 
 ! green
-*.color2:       #74be76
-*.color10:      #93cd95
+*.color2:       #81b866
+*.color10:      #9bc685
 
 ! yellow
-*.color3:       #e8b569
-*.color11:      #eec890
+*.color3:       #e3b064
+*.color11:      #eac48a
 
 ! blue
-*.color4:       #729bd6
-*.color12:      #94b4e0
+*.color4:       #74aabe
+*.color12:      #93bdcd
 
 ! magenta
 *.color5:       #b84c75
 *.color13:      #c37492
 
 ! cyan
-*.color6:       #74abbe
-*.color14:      #93becd
+*.color6:       #78baae
+*.color14:      #96cac0
 
 ! white
 *.color7:       #7a8185
